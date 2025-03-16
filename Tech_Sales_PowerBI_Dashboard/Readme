@@ -1,0 +1,14 @@
+📊 Tech Company Sales Dashboard | Power BI
+In this project, I designed and developed a dynamic sales dashboard for a tech company, providing a comprehensive view of sales performance across various dimensions. The dashboard enables stakeholders to track key metrics and make data-driven decisions effortlessly.
+
+🔍 Key Insights:
+Top Performing Products: Identified best-selling products to spotlight high-demand items.
+Sales by Region: Analyzed regional sales trends to understand market performance and growth opportunities.
+Total Revenue: Visualized overall revenue, offering a clear snapshot of the company’s financial health.
+⚙️ Power BI Features Used:
+DAX Formulas: Created custom measures to calculate sales growth, average revenue per product, and other performance metrics.
+Slicers: Enabled intuitive filtering for quick insights by product, region, and time period.
+Pie Chart for Brand Percentage: Illustrated each brand’s contribution to total sales, making brand performance comparisons easy.
+This project honed my skills in data modeling, dashboard design, and creating user-friendly visual analytics with Power BI. It’s a valuable tool for tracking performance, identifying trends, and supporting strategic decisions.
+
+🚀 Tools: Power BI, DAX, Data Visualization, Business Intelligence
